@@ -1,4 +1,3 @@
-Blood Donor System
 Welcome to the Blood Donor System! This simple website connects blood donors with people who need blood. It has a clean red-and-white design, fun animations (like sliding buttons and a pulsing logo), and works great on phones and computers.
 Features
 
